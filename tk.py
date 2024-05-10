@@ -1,7 +1,7 @@
 from tkinter import *
 
 root = Tk()
-root.title("MundMart - Login")
+root.title("MundMart - Lgin")
 
 
 largura_tela = root.winfo_screenwidth()
